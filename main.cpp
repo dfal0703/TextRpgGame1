@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include "status.h"
 
-extern int coin , guard , absorb , lv, next_lv, next_lv1 ;
+extern int coin , guard , absorb , lv, next_lv, next_lv1 ;//전역변수 받아옴
 
 int main(void)
 {
