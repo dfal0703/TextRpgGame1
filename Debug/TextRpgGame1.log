@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\User\Desktop\연구실\연습프로젝트2-텍스트게임 응용\TextRpgGame1\TextRpgGame1\status.h(83,26): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\Desktop\연구실\연습프로젝트2-텍스트게임 응용\TextRpgGame1\TextRpgGame1\main.cpp(12,6): warning C4101: 'any' :참조되지 않은 지역 변수입니다.
+  TextRpgGame1.vcxproj -> C:\Users\User\Desktop\연구실\연습프로젝트2-텍스트게임 응용\TextRpgGame1\Debug\TextRpgGame1.exe
